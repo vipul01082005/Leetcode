@@ -1,14 +1,43 @@
 class Solution {
-    private:
-    int dupli(vector<int>& nums,int index){
-        if(nums[index]==nums[index+1]){
-            return nums[index];
-        }
-        return dupli(nums,index+1);
-    }
+    public:
+    struct ListNode {
+     int val;
+     ListNode *next;
+     ListNode(int x) : val(x), next(NULL) {}
+  };
 public:
+
+ListNode * hasCycle(ListNode *head) {
+    
+     ListNode* slow=head;
+     ListNode * fast=head;
+     while(fast!=NULL  && fast->next !=NULL ){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                slow=head;
+                while(slow!=fast){
+                    slow=slow->next;
+                    fast=fast->next;
+                }
+            return slow;
+            }
+        }
+  return NULL;
+    }
     int findDuplicate(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        return dupli(nums,0);
+        int n=nums.size();
+       vector<ListNode*>nodes(n);
+     for(int i=0;i<n;i++){
+       nodes[i]=new ListNode(i);
+     }
+     for(int i=0;i<n;i++){
+        nodes[i]->next=nodes[nums[i]];
+     }
+      ListNode*temp=hasCycle(nodes[0]);
+
+    
+
+        return temp->val;
     }
 };
