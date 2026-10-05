@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/vipul01082005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vipul01082005/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vipul01082005/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
+## Counting
+|  |
+| ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 <!---LeetCode Topics End-->
