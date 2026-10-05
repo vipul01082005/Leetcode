@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vipul01082005/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/vipul01082005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vipul01082005/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vipul01082005/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vipul01082005/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
