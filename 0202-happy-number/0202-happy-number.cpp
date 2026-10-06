@@ -9,15 +9,15 @@ int sumSq(int n){
         }
         return sum;
 }
-    bool isHappy(int n) {
-        int finalSum=n;
-      
-        while(finalSum>=7){
-        finalSum=sumSq(finalSum);
+   bool isHappy(int n) {
+    int slow = n;
+    int fast = n;
 
-        }
-        if(finalSum==1){
-            return true;
-        }else return false;
-    }
+    do {
+        slow = sumSq(slow);
+        fast = sumSq(sumSq(fast));
+    } while(slow != fast);
+
+    return slow == 1;
+}
 };
