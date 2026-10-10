@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vipul01082005/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
+| [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/vipul01082005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -119,15 +120,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
