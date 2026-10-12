@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vipul01082005/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vipul01082005/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
