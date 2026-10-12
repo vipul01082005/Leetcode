@@ -2,9 +2,12 @@ class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
         vector<int>prefix;
-        int sum=0;
         for(int i=0;i<nums.size();i++){
-                sum+=nums[i];
+        int sum=0;
+            for(int j=0;j<=i;j++){
+                sum+=nums[j];
+
+            }
         
             prefix.push_back(sum);
         }
