@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vipul01082005/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/vipul01082005/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/vipul01082005/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/vipul01082005/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vipul01082005/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
