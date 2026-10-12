@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vipul01082005/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
