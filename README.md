@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/vipul01082005/Leetcode/tree/master/0724-find-pivot-index) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vipul01082005/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vipul01082005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vipul01082005/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vipul01082005/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vipul01082005/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vipul01082005/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vipul01082005/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Depth-First Search
