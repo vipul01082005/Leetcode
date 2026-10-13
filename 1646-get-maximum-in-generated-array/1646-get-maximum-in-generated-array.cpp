@@ -4,17 +4,17 @@ public:
      if(n==0){
         return 0;
      }
-        vector<int>nums;
-     nums.push_back(0);
-     nums.push_back(1);
-   int cnt=1;
+        vector<int>nums(n+1,0);
+     nums[0]=0;
+     nums[1]=1;
+     bool flag=true;
     for(int i=2;i<n+1;i++){
-        if(2*cnt==i){
-            nums.push_back(nums[cnt]);
-            
+        if(flag){
+            nums[i]=(nums[i/2]);
+            flag=false;
         }else {
-            nums.push_back(nums[cnt]+nums[cnt+1]);
-          cnt++;
+            nums[i]=(nums[i/2]+nums[(i/2)+1]);
+            flag=true;
 
         }
     }
