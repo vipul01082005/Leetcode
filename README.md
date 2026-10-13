@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vipul01082005/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vipul01082005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1646-get-maximum-in-generated-array](https://github.com/vipul01082005/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vipul01082005/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/vipul01082005/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
