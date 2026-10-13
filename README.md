@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vipul01082005/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vipul01082005/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/vipul01082005/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vipul01082005/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
