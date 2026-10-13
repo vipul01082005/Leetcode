@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/vipul01082005/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vipul01082005/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/vipul01082005/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
