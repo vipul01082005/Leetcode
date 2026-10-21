@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vipul01082005/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipul01082005/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vipul01082005/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/vipul01082005/Leetcode/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vipul01082005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vipul01082005/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vipul01082005/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/vipul01082005/Leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -189,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipul01082005/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vipul01082005/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Backtracking
 |  |
@@ -257,8 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
