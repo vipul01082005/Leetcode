@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vipul01082005/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vipul01082005/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/vipul01082005/Leetcode/tree/master/0046-permutations) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipul01082005/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vipul01082005/Leetcode/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
