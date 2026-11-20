@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vipul01082005/Leetcode/tree/master/0733-flood-fill) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vipul01082005/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vipul01082005/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vipul01082005/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
