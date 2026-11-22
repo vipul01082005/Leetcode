@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vipul01082005/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vipul01082005/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vipul01082005/Leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vipul01082005/Leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vipul01082005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Dynamic Programming
