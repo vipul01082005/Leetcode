@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/vipul01082005/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vipul01082005/Leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/vipul01082005/Leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vipul01082005/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/vipul01082005/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vipul01082005/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/vipul01082005/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vipul01082005/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vipul01082005/Leetcode/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipul01082005/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vipul01082005/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
