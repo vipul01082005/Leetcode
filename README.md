@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vipul01082005/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vipul01082005/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
