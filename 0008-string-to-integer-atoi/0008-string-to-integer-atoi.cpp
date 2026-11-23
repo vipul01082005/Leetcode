@@ -1,21 +1,23 @@
 class Solution {
 public:
-long long  stoint(string s){
-    int n=s.size();
-    long long  num=0;
-    long long  j=1;
-    bool positive=true;
-    for(int i=n-1;i>=0;i--){
-        char ch=s[i];
-          if (ch == '-') {
-            if (i != 0) return 0; // '-' only valid at the start
-            positive = false;
-            break;
-        }  if (ch == '+') {
-            if (i != 0) return 0; // '+' only valid at the start
-            break;
+long long stoint(string s) {
+    int n = s.size();
+    long long num = 0;
+    long long j = 1;
+    bool positive = true;
+    int start = 0;
+
+    if (!s.empty() && (s[0] == '-' || s[0] == '+')) {
+        positive = (s[0] == '+');
+        start = 1;
+    }
+
+    for (int i = n - 1; i >= start; i--) {
+        char ch = s[i];
+        if (ch == '-' || ch == '+') {
+            return 0; // sign only valid at index 0
         }
-        
+
         int digit = ch - '0';
         if (digit != 0) {
             if (j > LLONG_MAX / digit) {
@@ -27,25 +29,20 @@ long long  stoint(string s){
             }
             num += term;
         }
-        if (i > 0 && j <= LLONG_MAX / 10) {
+        if (i > start && j <= LLONG_MAX / 10) {
             j *= 10;
         }
-
-       
-
-          
-       
-
     }
-   long long signedNUM=positive?num:-num;
-   if(signedNUM>INT_MAX ){
-    return INT_MAX;
-   }else if( signedNUM<INT_MIN){
-    return INT_MIN;
-   }
-        return signedNUM;
 
+    long long signedNUM = positive ? num : -num;
+    if (signedNUM > INT_MAX) {
+        return INT_MAX;
+    } else if (signedNUM < INT_MIN) {
+        return INT_MIN;
+    }
+    return signedNUM;
 }
+
         int myAtoi(string s) {
         string num = "";
         bool started = false;
