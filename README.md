@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/vipul01082005/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vipul01082005/Leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vipul01082005/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,15 +194,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vipul01082005/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vipul01082005/Leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vipul01082005/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vipul01082005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vipul01082005/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vipul01082005/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
