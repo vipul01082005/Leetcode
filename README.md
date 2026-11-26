@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vipul01082005/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vipul01082005/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vipul01082005/Leetcode/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/vipul01082005/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vipul01082005/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vipul01082005/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vipul01082005/Leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/vipul01082005/Leetcode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vipul01082005/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0997-find-the-town-judge](https://github.com/vipul01082005/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/vipul01082005/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipul01082005/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vipul01082005/Leetcode/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/vipul01082005/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vipul01082005/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
