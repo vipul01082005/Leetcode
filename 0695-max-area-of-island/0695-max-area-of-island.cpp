@@ -1,7 +1,7 @@
 class Solution {
 public:
 void dfs(vector<vector<int>> adj,vector<vector<int>>&visited,int row,int col,int& cnt){
-    if(row<0 || col<0 || row==adj.size() || col==adj[0].size() ||adj[row][col]==0 ||visited[row][col]==1){
+    if(row<0 || col<0 || row>=adj.size() || col>=adj[0].size() ||adj[row][col]==0 ||visited[row][col]==1){
         return;
     }
     cnt++;
