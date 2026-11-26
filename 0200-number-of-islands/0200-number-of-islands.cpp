@@ -1,13 +1,6 @@
 class Solution {
 public:
-//  void dfs(int i,int j,vector<vector<int>>&visited,vector<vector<char>>&grid){
-//     visited[i][j]=true;
-//      for(auto row:grid[i]){
-//          if(!visited[row][j]){
-//              dfs(row,j,visited,grid);
-//          }
-//      }
-//   }
+
     void dfs(int i,int j,vector<vector<int>>&vis,vector<vector<char>>&grid){
         vis[i][j]=1;
          int m=grid[0].size();
