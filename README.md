@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vipul01082005/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vipul01082005/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
+| [3360-stone-removal-game](https://github.com/vipul01082005/Leetcode/tree/master/3360-stone-removal-game) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/vipul01082005/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [3360-stone-removal-game](https://github.com/vipul01082005/Leetcode/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
