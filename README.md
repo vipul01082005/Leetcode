@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipul01082005/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vipul01082005/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3925-concatenate-array-with-reverse](https://github.com/vipul01082005/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul01082005/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vipul01082005/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vipul01082005/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul01082005/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vipul01082005/Leetcode/tree/master/0509-fibonacci-number) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul01082005/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/vipul01082005/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
