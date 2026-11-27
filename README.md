@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vipul01082005/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipul01082005/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/vipul01082005/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vipul01082005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipul01082005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vipul01082005/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vipul01082005/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
